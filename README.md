@@ -2,8 +2,6 @@
 
 Sailor, a Wordpress loader for your admin pages transitions.
 
-- View it live @ https://codepen.io/amarinediary/full/ExgRzLV
-
 ## Installation
 
 As simple as adding this line, to he top of your Wordpress `function.php` file.
