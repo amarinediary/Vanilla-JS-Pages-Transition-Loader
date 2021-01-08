@@ -1,4 +1,4 @@
-# sailor
+# Sailor, Wordpress lightweight pages transition loader 
 
 Sailor is a lightweight, 890 bytes (or boat) pages transition loader with no dependencies.
 
