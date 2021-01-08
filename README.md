@@ -1,6 +1,6 @@
 # Sailor
 
-Sailor, a Wordpress loader for your admin pages transitions.
+Sailor, a Wordpress admin pages transitions loader.
 
 ## Installation
 
