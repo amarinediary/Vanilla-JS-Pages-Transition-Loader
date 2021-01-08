@@ -21,30 +21,5 @@ To change the theme color, edit the `theme` variable with the new HEX color code
 <script type='text/javascript'>var theme='#2774ab', //...
 ```
 
-## Only for specific posts types
-```
-function sailor() {
-  $base = [
-    'my_first_custom_post_type',
-    'my_second_custom_post_type',
-    //...
-  ];
-  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), '?post_type=' . $base, true ) )
-  //...
-```
-
-## Only for specific admin pages
-```
-function sailor() {
-  $base = [
-    'post.php',
-    'post-new.php',
-    //...
-  ];
-  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), 'wp-admin/' . $base, true ) )
-  //...
-```
-
-
 
 
