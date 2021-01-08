@@ -4,7 +4,7 @@ Meet Sailor, a Wordpress admin pages transitions loader condensed in a 900 bytes
 
 ## Installation
 
-As simple as adding the following lines to he top of your Wordpress `function.php` file.
+As simple as adding the following lines to the top of your Wordpress `function.php` file.
 
 ```
 <?php
