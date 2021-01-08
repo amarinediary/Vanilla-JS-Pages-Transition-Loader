@@ -1,6 +1,6 @@
 # sailor
 
-Sailor is a lightweight, 890 bytes pages transition loader with no dependencies.
+Sailor is a lightweight, 890 bytes (or boat) pages transition loader with no dependencies.
 
 ## Installation
 
