@@ -4,7 +4,7 @@ Sailor is a lightweight, 890 bytes pages transition loader with no dependencies.
 
 ## Installation
 
-Simply add the following lines at the top of your `function.php` file.
+Add the following, to the top of your `function.php` file.
 
 ```
 add_action( 'admin_enqueue_scripts', 'sailor', PHP_INT_MIN );
