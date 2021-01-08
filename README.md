@@ -1,6 +1,6 @@
-# Sailor, Wordpress lightweight pages transition loader 
+# Sailor, Not a Wordpress plugin
 
-Sailor is a lightweight, 890 bytes (or boat) pages transition loader with no dependencies.
+Sailor is a lightweight, 890 bytes (or boat) Wordpress pages transition loader with no dependencies.
 
 ## Installation
 
