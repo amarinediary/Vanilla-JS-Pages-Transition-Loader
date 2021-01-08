@@ -18,10 +18,10 @@ function sailor() {
 To change the theme color, edit the `theme` variable with the new HEX color code.
 
 ```
-<script type='text/javascript'>var theme='#2774ab', ...
+<script type='text/javascript'>var theme='#2774ab', //...
 ```
 
-## Specific posts types
+## Only for specific posts types
 ```
 function sailor() {
   $base = [
@@ -33,7 +33,7 @@ function sailor() {
   //...
 ```
 
-## Specific page
+## Only for specific admin pages
 ```
 function sailor() {
   $base = [
