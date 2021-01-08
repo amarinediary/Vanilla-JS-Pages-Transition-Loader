@@ -29,7 +29,7 @@ function sailor() {
     'my_second_custom_post_type',
     //...
   ];
-  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), '?post_type=' . $base, true )
+  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), '?post_type=' . $base, true ) )
   //...
 ```
 
@@ -41,7 +41,7 @@ function sailor() {
     'post-new.php',
     //...
   ];
-  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), 'wp-admin/' . $base, true )
+  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), 'wp-admin/' . $base, true ) )
   //...
 ```
 
