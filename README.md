@@ -18,5 +18,5 @@ echo "<script type='text/javascript'>var theme='#2774ab',sailor=jQuery('<style m
 To change the theme color, edit the `theme` variable with the neW HEX color code.
 
 ```
-<script type='text/javascript'>var theme='#ec4188', ...
+<script type='text/javascript'>var theme='#2774ab', ...
 ```
