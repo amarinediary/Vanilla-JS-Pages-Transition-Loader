@@ -21,16 +21,29 @@ To change the theme color, edit the `theme` variable with the new HEX color code
 <script type='text/javascript'>var theme='#2774ab', ...
 ```
 
-## Post type only
-
-To restrict the loader to a specific post type, add the following line at the top of the `sailor` function.
-
+## Specific posts types
 ```
 function sailor() {
-  if ( get_current_screen()->post_type == '_post_ype_' )
-  ...
+  $base = [
+    'my_first_custom_post_type',
+    'my_second_custom_post_type',
+    //...
+  ];
+  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), '?post_type=' . $base, true )
+  //...
 ```
 
+## Specific page
+```
+function sailor() {
+  $base = [
+    'post.php',
+    'post-new.php',
+    //...
+  ];
+  if( ! in_array( filter_input( INPUT_SERVER, 'REQUEST_URI' ), 'wp-admin/' . $base, true )
+  //...
+```
 
 
 
