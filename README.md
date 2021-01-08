@@ -6,7 +6,7 @@ Sailor is a lightweight, 890 bytes (or boat) Wordpress pages transition loader w
 
 ## Installation
 
-Add the following, to the top of your Wordpress `function.php` file.
+Add the following, to the top of your Wordpress `function.php` file, and paste `sailor.min.js` to you theme's root directory.
 
 ```
 add_action( 'admin_enqueue_scripts', 'sailor', PHP_INT_MIN );
