@@ -13,11 +13,11 @@ add_action( 'wp_loaded', function() {
 ```
 ## Theme
 
-To change the theme color, edit the `theme` variable with the new color code.
+To change Sailor's theme color, edit the `theme` variable with the new color code.
 
 ```js
 var theme="#2774ab", // ...
 ```
 
-
+Sailor's theme colors is based on Wordpress deep blue accent colors ![#2774ab](https://via.placeholder.com/15/f03c15/000000?text=+) `#2774ab`.
 
