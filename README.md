@@ -1,17 +1,15 @@
-# Sailor
-
-**Meet [Sailor][1]**, a vanilla `.js` standalone Wordpress pages transitions loader, condensed in a 1.6 kilobytes, one-line of code.
 <?php
-
 require 'vendor/autoload.php';
 require 'Markdown.php';
-
 $parser = new Bogardo\Markdown();
 $result = $parser->parse(file_get_contents('MarkdownTest.md'));
-
 echo $result;
 ?>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
+
+# Sailor
+
+**Meet [Sailor][1]**, a vanilla `.js` standalone Wordpress pages transitions loader, condensed in a 1.6 kilobytes, one-line of code.
 
 ## Installation
 
