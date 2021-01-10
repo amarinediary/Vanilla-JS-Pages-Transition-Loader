@@ -1,6 +1,6 @@
 # Sailor
 
-Meet Sailor, a Wordpress admin pages transitions loader condensed in a 900 bytes, one-line of code.
+Meet Sailor, a standalone Wordpress pages transitions loader condensed in a 1500 kilobytes, one-line of code.
 
 ## Installation
 
