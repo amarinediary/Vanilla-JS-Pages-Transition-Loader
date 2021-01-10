@@ -4,7 +4,7 @@
 
 ## Installation
 
-As simple as adding the following lines to the top of your Wordpress `function.php` file.
+As simple as adding the following lines to the top of your Wordpress `function.php` file & `sailor.min.js` to your root theme's directory.
 
 ```php
 add_action( 'wp_loaded', function() {
