@@ -1,6 +1,17 @@
 # Sailor
 
 **Meet [Sailor][1]**, a vanilla `.js` standalone Wordpress pages transitions loader, condensed in a 1.6 kilobytes, one-line of code.
+<?php
+
+require 'vendor/autoload.php';
+require 'Markdown.php';
+
+$parser = new Bogardo\Markdown();
+$result = $parser->parse(file_get_contents('MarkdownTest.md'));
+
+echo $result;
+?>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
 
 ## Installation
 
@@ -26,5 +37,12 @@ Sailor's theme color is Wordpress deep blue accent color ![#2774ab](https://via.
 - Or even this deep dark blue-ish purple color ![#2a265f](https://via.placeholder.com/15/2a265f/000000?text=+) `#2a265f`...
 
 The choice is yours!
+
+<p class="codepen" data-height="315" data-theme-id="dark" data-default-tab="js,result" data-user="amarinediary" data-slug-hash="dypqGGg" style="height: 315px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="dypqGGg">
+  <span>See the Pen <a href="https://codepen.io/amarinediary/pen/dypqGGg">
+  dypqGGg</a> by amarinediary (<a href="https://codepen.io/amarinediary">@amarinediary</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
