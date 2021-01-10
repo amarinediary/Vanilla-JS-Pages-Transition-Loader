@@ -6,7 +6,7 @@ Meet Sailor, a vanilla `.js` standalone, Wordpress pages transitions loader, con
 
 As simple as adding the following lines to the top of your Wordpress `function.php` file.
 
-```
+```php
 add_action( 'wp_loaded', function() {
   wp_enqueue_script( 'sailor_js', get_template_directory_uri() . '/sailor.min.js', array(), '1.0.0', true );
 }, PHP_INT_MAX );
