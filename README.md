@@ -28,3 +28,10 @@ Sailor's theme color is Wordpress deep blue accent color ![#2774ab](https://via.
 The choice is yours!
 
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
+
+
+
+<iframe height="315" style="width: 100%;" scrolling="no" title="dypqGGg" src="https://codepen.io/amarinediary/embed/dypqGGg?height=315&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/amarinediary/pen/dypqGGg'>dypqGGg</a> by amarinediary
+  (<a href='https://codepen.io/amarinediary'>@amarinediary</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
