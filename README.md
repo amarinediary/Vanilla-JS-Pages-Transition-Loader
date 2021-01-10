@@ -15,7 +15,7 @@ add_action( 'wp_loaded', function() {
 
 To change the theme color, edit the `theme` variable with the new color code.
 
-```
+```js
 var theme="#2774ab", // ...
 ```
 
