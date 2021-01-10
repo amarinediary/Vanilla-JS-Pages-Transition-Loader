@@ -1,6 +1,6 @@
 # Sailor
 
-Meet Sailor, a vanilla `.js` standalone, Wordpress pages transitions loader, condensed in a 1.6 kilobytes, one-line of code.
+Meet ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) Sailor, a vanilla `.js` standalone, Wordpress pages transitions loader, condensed in a 1.6 kilobytes, one-line of code.
 
 ## Installation
 
@@ -18,6 +18,3 @@ To change Sailor's theme color, edit the `theme` variable with the new color cod
 ```js
 var theme="#2774ab", // ...
 ```
-
-Sailor's default theme's colors is based on Wordpress deep blue accent colors ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
-
