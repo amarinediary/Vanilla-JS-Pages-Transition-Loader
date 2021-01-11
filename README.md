@@ -1,6 +1,6 @@
 # Sailor
 
-**Meet [Sailor][1]**, a vanilla `.js` standalone pages transitions loader, minified in a 1.3 kilobytes, one-line of code.
+**Meet [Sailor][1]**, a vanilla `.js` standalone pages transitions loader, minified in a 1.15 kilobytes, one-line of code.
 
 ## Quick start
 
