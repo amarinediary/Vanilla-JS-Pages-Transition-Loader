@@ -27,5 +27,7 @@ Sailor's theme color is Wordpress deep blue accent color ![#2774ab](https://via.
 
 The choice is yours!
 
+Sailo's made with love & minified by hands ❤️
+
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
 
