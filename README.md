@@ -12,7 +12,7 @@ to enable Sailor, place the following `<script>` near the end of your pages, rig
 
 ## Theme
 
-To change Sailor's theme's color, edit the theme ` t ` variable with your new HEX color code.
+To change Sailor's theme's color, edit the theme's ` t ` variable with your new HEX color code.
 
 ```js
 var t="#2774ab", // ...
