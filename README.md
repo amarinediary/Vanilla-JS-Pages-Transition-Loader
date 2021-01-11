@@ -23,11 +23,7 @@ Sailor's theme color is Wordpress deep blue accent color ![#2774ab](https://via.
 
 - We really love this neon pink ![#ec4188](https://via.placeholder.com/15/ec4188/000000?text=+) `#ec4188` with Sailor...
 - Or this magnificent apple green ![#8db600](https://via.placeholder.com/15/8db600/000000?text=+) `#8db600`...
-- Or even this deep dark blue-ish purple color ![#2a265f](https://via.placeholder.com/15/2a265f/000000?text=+) `#2a265f`...
-
-The choice is yours!
-
-Sailo's made with love & minified by hands ❤️
+- Or even this deep dark blue-ish purple color ![#2a265f](https://via.placeholder.com/15/2a265f/000000?text=+) `#2a265f`.
 
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
 
