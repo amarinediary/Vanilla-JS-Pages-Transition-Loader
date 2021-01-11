@@ -1,19 +1,18 @@
 # Sailor
 
-**Meet [Sailor][1]**, a vanilla `.js` standalone Wordpress pages transitions loader, condensed in a 1.3 kilobytes, one-line of code.
+**Meet [Sailor][1]**, a vanilla `.js` standalone pages transitions loader, condensed in a 1.3 kilobytes, one-line of code.
 
-## Installation
+## Quick start
 
-As simple as adding the following lines to the top of your Wordpress `function.php` file & `sailor.min.js` to your root theme's directory.
+to enable Sailor, place the following `<script>` near the end of your pages, right before the closing `</body>` tag.
 
-```php
-add_action( 'wp_loaded', function() {
-  wp_enqueue_script( 'sailor_js', get_template_directory_uri() . '/sailor.min.js', array(), '1.0.0', true );
-}, PHP_INT_MAX );
+```html
+<script type="application/javascript" src="path/to/file/sailor.min.js"></script>
 ```
+
 ## Theme
 
-To change Sailor's theme color, edit the theme ` t ` variable with the new color code.
+To change Sailor's theme color, edit the theme ` t ` variable with your new HEX color code.
 
 ```js
 var t="#2774ab", // ...
