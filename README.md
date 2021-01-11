@@ -13,7 +13,7 @@ add_action( 'wp_loaded', function() {
 ```
 ## Theme
 
-To change Sailor's theme color, edit the ` t ` variable with the new color code.
+To change Sailor's theme color, edit the theme ` t ` variable with the new color code.
 
 ```js
 var t="#2774ab", // ...
