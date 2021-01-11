@@ -1,6 +1,6 @@
 # Sailor
 
-**Meet [Sailor][1]**, a vanilla `.js` standalone Wordpress pages transitions loader, condensed in a 1.4 kilobytes, one-line of code.
+**Meet [Sailor][1]**, a vanilla `.js` standalone Wordpress pages transitions loader, condensed in a 1.3 kilobytes, one-line of code.
 
 ## Installation
 
