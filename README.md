@@ -28,7 +28,5 @@ The time on screen is appended the the page loading time. To increase the time o
 ,100)})
 ```
 
-<p align="center">Happy Coding ❤️</p>
-
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
 
