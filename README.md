@@ -22,7 +22,7 @@ Sailor's default theme's color is based on Wordpress deep blue accent color ![#2
 
 ## Time on screen
 
-The time on screen is appended the the page loading time. To increase the default time on screen value you can modify the default `100` milliseconds `setTimeout` value located at the end of the script.
+The time on screen is appended the the page loading time. To increase the time on screen you can modify the default `100` milliseconds `setTimeout` value located at the end of the script.
 ```js
 // ...
 ,100)})
