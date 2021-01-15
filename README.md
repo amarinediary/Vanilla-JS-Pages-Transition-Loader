@@ -4,11 +4,11 @@
 
 ## Demo
 
-See Sailor live at https://codepen.io/amarinediary/full/mdrQvGJ.
+See **Sailor** live at https://codepen.io/amarinediary/full/mdrQvGJ.
 
 ## Quick start
 
-to enable Sailor, place the following `<script>` near the end of your pages, right before the closing `</body>` tag.
+to enable **Sailor**, place the following `<script>` near the end of your pages, right before the closing `</body>` tag.
 
 ```html
 <script type="application/javascript" src="../path/to/file/sailor.min.js"></script>
@@ -16,13 +16,13 @@ to enable Sailor, place the following `<script>` near the end of your pages, rig
 
 ## Theme
 
-To change Sailor's theme's color, edit the theme's ` t ` variable with your new HEX color code located at the top of the script.
+To change **Sailor's** theme's color, edit the theme's ` t ` variable with your new HEX color code located at the top of the script.
 
 ```js
 var t="#2774ab", // ...
 ```
 
-Sailor's default theme's color is based on Wordpress deep blue accent color ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
+**Sailor's** default theme's color is based on Wordpress deep blue accent color ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
 
 ## Time on screen
 
