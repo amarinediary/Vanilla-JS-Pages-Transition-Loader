@@ -2,6 +2,10 @@
 
 **Meet [Sailor][1]**, a vanilla `.js` standalone pages transitions loader, minified in a 1.15 kilobytes, one-line of code.
 
+## Demo
+
+See Sailor live at https://codepen.io/amarinediary/full/mdrQvGJ.
+
 ## Quick start
 
 to enable Sailor, place the following `<script>` near the end of your pages, right before the closing `</body>` tag.
