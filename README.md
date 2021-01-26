@@ -1,6 +1,6 @@
 # Sailor
 
-**Meet [Sailor][1]**, a vanilla `.js` standalone pages transitions loader, minified in a 1.15 kilobytes, one-line of code.
+Meet **[Sailor][1]**, a vanilla `.js` standalone pages transitions loader, minified in a 1.15 kilobytes, one-line of code.
 
 ## What's included
 
@@ -18,7 +18,7 @@ Sailor/
 
 ## Demo
 
-See **Sailor** live at https://codepen.io/amarinediary/full/mdrQvGJ.
+See **[Sailor][1]** live @ https://codepen.io/amarinediary/full/mdrQvGJ.
 
 ## Quick start
 
