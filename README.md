@@ -4,7 +4,7 @@
 
 ## What's included
 
-Within the download you'll find the following directories and files and logically grouping common assets.
+Within the download you'll find the following directories, files and logically grouping common assets.
 
 ```
 Sailor/
