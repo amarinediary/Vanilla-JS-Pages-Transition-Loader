@@ -11,6 +11,11 @@ Sailor/
 ├── sailor.min.js
 ```
 
+## Status
+
+![GitHub last commit](https://img.shields.io/github/last-commit/amarinediary/sailor)
+![GitHub contributors](https://img.shields.io/github/contributors/amarinediary/sailor)
+
 ## Demo
 
 See **Sailor** live at https://codepen.io/amarinediary/full/mdrQvGJ.
