@@ -1,4 +1,4 @@
-# ⛵ Sailor
+# ⛵ Sailor ![GitHub Repo stars](https://img.shields.io/github/stars/amarinediary/sailor?style=social)
 
 Meet **Sailor**, a vanilla `.js` standalone pages transitions loader, minified in a 1.15 kilobytes, one-line of code.
 
@@ -15,6 +15,7 @@ Sailor/
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/amarinediary/sailor)
 ![GitHub contributors](https://img.shields.io/github/contributors/amarinediary/sailor)
+![GitHub all releases](https://img.shields.io/github/downloads/amarinediary/sailor/total)
 
 ## Demo
 
