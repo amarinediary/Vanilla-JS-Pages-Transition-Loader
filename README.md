@@ -8,7 +8,7 @@ Within the download you'll find the following directories, files and logically g
 
 ```
 Sailor/
-├── sailor.min.js
+└── sailor.min.js
 ```
 
 ## Status
