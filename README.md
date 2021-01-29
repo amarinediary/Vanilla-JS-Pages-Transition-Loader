@@ -52,7 +52,7 @@ ___
 ___
 ## Star it & watch it! 
 
-*If Sailor made your day**, give us a star and watch it.*
+*If **Sailor** made your day, give us a star and watch it.*
 
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
 
