@@ -49,8 +49,7 @@ The time on screen is appended the the page loading time. To increase the time o
 ```
 
 ___
-___
-## Star it & watch it! 
+### Star it and watch it! 
 
 *If **Sailor** made your day, give us a star and watch it.*
 
