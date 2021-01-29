@@ -14,9 +14,9 @@ Sailor/
 ## Status
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/amarinediary/Sailor/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/amarinediary/sailor)](#!)
-[![GitHub contributors](https://img.shields.io/github/contributors/amarinediary/sailor)](#!)
-[![GitHub all releases](https://img.shields.io/github/downloads/amarinediary/sailor/total)](#!)
+[![GitHub last commit](https://img.shields.io/github/last-commit/amarinediary/sailor)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/amarinediary/sailor)]()
+[![GitHub all releases](https://img.shields.io/github/downloads/amarinediary/sailor/total)]()
 
 ## Demo
 
