@@ -1,4 +1,4 @@
-# Sailor ![GitHub Repo stars](https://img.shields.io/github/stars/amarinediary/sailor?style=social)
+# Sailor
 
 Meet **Sailor**, a vanilla `.js` standalone pages transitions loader, minified in a 1.15 kilobytes, one-line of code.
 
@@ -47,6 +47,12 @@ The time on screen is appended the the page loading time. To increase the time o
 // ...
 ,100)})
 ```
+
+___
+___
+## Star it & watch it! 
+
+*If Sailor made your day**, give us a star and watch it.*
 
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
 
