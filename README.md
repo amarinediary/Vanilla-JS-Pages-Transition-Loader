@@ -48,10 +48,14 @@ The time on screen is appended the the page loading time. To increase the time o
 ,100)})
 ```
 
+## Bugs and feature requests
+
+Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/amarinediary/Sailor/issues).
+
 ___
 ### Star it and watch it! 
 
-*If **Sailor** made your day, give us a star and watch it.*
+*If **Sailor** made your day, give us a star!*
 
 [1]: https://github.com/amarinediary/Sailor/blob/main/README.md
 
