@@ -11,13 +11,6 @@ Sailor/
 └── sailor.min.js
 ```
 
-## Status
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/amarinediary/Sailor/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/amarinediary/sailor)](https://github.com/amarinediary/Sailor/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/amarinediary/sailor)](https://github.com/amarinediary/Sailor/graphs/contributors)
-[![GitHub all releases](https://img.shields.io/github/downloads/amarinediary/sailor/total)](#!)
-
 ## Demo
 
 See **Sailor** live @ https://codepen.io/amarinediary/full/mdrQvGJ.
@@ -38,7 +31,7 @@ To change **Sailor's** theme's color, edit the theme's ` t ` variable with your 
 var t="#2774ab", // ...
 ```
 
-**Sailor's** default theme's color is based on Wordpress deep blue accent color ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
+**Sailor's** default theme's color is based on Wordpress deep blue accent ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
 
 ## Time on screen
 
@@ -48,14 +41,8 @@ The time on screen is appended the the page loading time. To increase the time o
 ,100)})
 ```
 
-## Bugs and feature requests
-
-Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/amarinediary/Sailor/issues).
-
 ___
 ### Star it and watch it! 
 
 *If **Sailor** made your day, give us a star!*
-
-[1]: https://github.com/amarinediary/Sailor/blob/main/README.md
 
