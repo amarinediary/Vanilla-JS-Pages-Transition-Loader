@@ -5,7 +5,7 @@ A simple and minimalist vanilla `.js` standalone pages transitions loader, minif
 ## How it works
 
 - Generate a `<script>` element appended to the `<head>` element, containing any required styling.
-- Generate a `<asisde>` element, acting as overlay, prepended to the `<body>` element, containing a generated `<svg>` element, acting as loader.
+- Generate a `<div>` element, acting as overlay, prepended to the `<body>` element, containing a generated `<svg>` element, acting as loader.
 - On `window.onload` the `<asisde>` element is automatically removed.
 
 ## What's included
