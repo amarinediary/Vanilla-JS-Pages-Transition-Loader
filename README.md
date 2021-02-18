@@ -20,7 +20,7 @@ See it live @ https://codepen.io/amarinediary/full/mdrQvGJ.
 to enable it, place the following `<script>` near the end of your pages, right before the closing `</body>` tag.
 
 ```html
-<script type="application/javascript" src="../path/to/sailor.min.js"></script>
+<script type="application/javascript" src="../path/to/vanilla-js-pages-transitions-loader.min.js"></script>
 ```
 
 ## Theme
