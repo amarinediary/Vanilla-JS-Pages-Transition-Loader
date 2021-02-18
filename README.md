@@ -1,4 +1,4 @@
-# Sailor
+# Sailor, Pages Transitions Loader
 
 Meet **Sailor**, a vanilla `.js`, minimalist and standalone, pages transitions loader, minified in a 1.12 kilobytes, one-line of code.
 
