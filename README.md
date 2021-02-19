@@ -13,9 +13,9 @@ Vanilla-JS-Pages-Transitions-Loader/
 
 ## Demo
 
-<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif" width="30%"></img>
-<img src="https://i.ibb.co/ZH4PXWZ/vanilla-js-pages-transitions-loader-ressource-2.gif" width="30%"></img>
-<img src="https://i.ibb.co/J7y9BYy/vanilla-js-pages-transitions-loader-ressource-3.gif" width="30%"></img>
+[<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif" width="30%"></img>]()
+[<img src="https://i.ibb.co/ZH4PXWZ/vanilla-js-pages-transitions-loader-ressource-2.gif" width="30%"></img>]()
+[<img src="https://i.ibb.co/J7y9BYy/vanilla-js-pages-transitions-loader-ressource-3.gif" width="30%"></img>]()
 
 See it live @ https://codepen.io/amarinediary/full/mdrQvGJ.
 
@@ -35,7 +35,7 @@ To change the theme's color, edit the theme's ` t ` variable with your new HEX c
 var t="#2774ab", // ...
 ```
 
-The default theme's color is based on Wordpress deep blue accent ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
+The default theme's color is based on Wordpress deep blue accent [![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+)]() `#2774ab`.
 
 ## Time on screen
 
