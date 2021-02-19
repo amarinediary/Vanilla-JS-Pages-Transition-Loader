@@ -14,8 +14,8 @@ Vanilla-JS-Pages-Transitions-Loader/
 ## Demo
 
 <img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif" width="30%"></img>
-<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-2.gif" width="30%"></img>
-<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-3.gif" width="30%"></img>
+<img src="https://i.ibb.co/ZH4PXWZ/vanilla-js-pages-transitions-loader-ressource-2.gif" width="30%"></img>
+<img src="https://i.ibb.co/J7y9BYy/vanilla-js-pages-transitions-loader-ressource-3.gif" width="30%"></img>
 
 See it live @ https://codepen.io/amarinediary/full/mdrQvGJ.
 
