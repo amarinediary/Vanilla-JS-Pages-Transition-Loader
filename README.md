@@ -2,10 +2,6 @@
 
 A simple and minimalist vanilla `.js` standalone pages transitions loader, minified in a 1.12 kilobytes, one-line of code.
 
-## Fundamentals
-
-Self-generate any required elements and automatically remove them on `window.onload`.
-
 ## What's included
 
 Within the download you'll find the following directories, files and logically grouping common assets.
