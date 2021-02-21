@@ -7,8 +7,8 @@ A simple and minimalist vanilla `.js` standalone pages transitions loader, minif
 Within the download you'll find the following directories, files and logically grouping common assets.
 
 ```
-Vanilla-JS-Pages-Transitions-Loader/
-└── vanilla-js-pages-transitions-loader.min.js
+Vanilla-JS-Pages-Transition-Loader/
+└── vanilla-js-pages-transition-loader.min.js
 ```
 
 ## Demo
