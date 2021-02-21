@@ -1,4 +1,4 @@
-# Vanilla-JS-Pages-Transitions-Loader
+# Vanilla-JS-Pages-Transition-Loader
 
 A simple and minimalist vanilla `.js` standalone pages transitions loader, minified in a 1.12 kilobytes, one-line of code.
 
