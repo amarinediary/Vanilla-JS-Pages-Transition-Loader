@@ -11,6 +11,13 @@ Vanilla-JS-Pages-Transition-Loader/
 └── vanilla-js-pages-transition-loader.min.js
 ```
 
+## Fundamentals
+
+- Generate a `<script>` element appended to the `<head>` element, containing any required styling.
+- Generate a `<div>` element, acting as overlay, prepended to the `<body>` element.
+- Generate a `<svg>` element, acting as loader, prepended to the previously generated `<div>` element.
+- On `window.onload` the `<div>` element is automatically removed.
+
 ## Demo
 
 <img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif" width="30%"></img>
