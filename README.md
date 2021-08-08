@@ -2,15 +2,6 @@
 
 A simple and minimalistic vanilla `.js` standalone pages transition loader, minified in a 1.12 kilobytes, one-line of code.
 
-## What's included
-
-Within the download you'll find the following directories, files and logically grouping common assets.
-
-```
-Vanilla-JS-Pages-Transition-Loader/
-└── vanilla-js-pages-transition-loader.min.js
-```
-
 ## Fundamentals
 
 - Generate a `<script>` element appended to the `<head>` element, containing any required styling.
