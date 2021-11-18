@@ -37,7 +37,7 @@ The default theme's color is based on Wordpress deep blue accent ![#2774ab](http
 
 ## Time on screen
 
-The time on screen is appended the the page loading time. To increase the time on screen you can modify the default `100` milliseconds `setTimeout` value located at the end of the script.
+The time on screen is appended to the page loading time. To increase the time on screen you can modify the default `100` milliseconds `setTimeout` value located at the end of the script.
 ```js
 // ...
 ,100)})
