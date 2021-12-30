@@ -11,15 +11,15 @@ A simple and minimalistic vanilla `.js` standalone pages transition loader, mini
 
 ## Demo
 
-<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif" width="30%"></img>
-<img src="https://i.ibb.co/ZH4PXWZ/vanilla-js-pages-transitions-loader-ressource-2.gif" width="30%"></img>
-<img src="https://i.ibb.co/J7y9BYy/vanilla-js-pages-transitions-loader-ressource-3.gif" width="30%"></img>
+||||
+|-|-|-|
+|<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif"></img>|<img src="https://i.ibb.co/ZH4PXWZ/vanilla-js-pages-transitions-loader-ressource-2.gif"></img>|<img src="https://i.ibb.co/J7y9BYy/vanilla-js-pages-transitions-loader-ressource-3.gif"></img>|
 
 See it live @ https://codepen.io/amarinediary/full/mdrQvGJ.
 
 ## Quick start
 
-to enable it, place the following `<script>` near the end of your pages, right before the closing `</body>` tag.
+to enable it, place the following script near the end of your pages, right before the closing `</body>` tag.
 
 ```html
 <script type="application/javascript" src="../path/to/vanilla-js-pages-transition-loader.min.js"></script>
