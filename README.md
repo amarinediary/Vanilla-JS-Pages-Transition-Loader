@@ -46,5 +46,5 @@ The time on screen is appended to the page loading time. To increase the time on
 ___
 ### Star it and watch it! 
 
-*If this project made your day, give us a star!*
+We made your day? Give us a star!
 
