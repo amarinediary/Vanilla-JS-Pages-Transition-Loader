@@ -35,7 +35,7 @@ var t="#2774ab", // ...
 
 The default theme's color is based on Wordpress deep blue accent ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
 
-The loader `<svg>` element is using the [brightness() CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness()) set to `brightness(2)`. It can be found while declaring it as an attribute for the `<svg>` element `g.setAttribute("filter","brightness(2)")`. Setting a lighter theme's color will force you to update the brightness to lower value.
+The loader is using the [brightness() CSS function `brightness(2)`](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness()). Setting a lighter theme's color will force you to edit the brightness to lower value, `g.setAttribute("filter","brightness(2)")`.
 
 ## Time on screen
 
