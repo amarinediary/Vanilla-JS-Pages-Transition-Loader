@@ -9,13 +9,11 @@ A simple and minimalistic vanilla `.js` standalone pages transition loader, mini
 - Generate a `<svg>` element, acting as loader, prepended to the previously generated `<div>` element.
 - On `window.onload` self generated elements are automatically removed.
 
-## Demo
+## [Demo](https://codepen.io/amarinediary/full/mdrQvGJ)
 
 ||||
 |-|-|-|
 |<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif"></img>|<img src="https://i.ibb.co/ZH4PXWZ/vanilla-js-pages-transitions-loader-ressource-2.gif"></img>|<img src="https://i.ibb.co/J7y9BYy/vanilla-js-pages-transitions-loader-ressource-3.gif"></img>|
-
-See it live @ https://codepen.io/amarinediary/full/mdrQvGJ.
 
 ## Quick start
 
