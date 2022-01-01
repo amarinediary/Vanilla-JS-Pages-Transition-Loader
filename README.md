@@ -27,9 +27,9 @@ to enable it, place the following script near the end of your pages, right befor
 
 ```js
 let settings = {
-    backgroundColor: "#2774ab", //https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
-    filterBrightness: 2, //https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness()
-    timeOnScreen: 100 //https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+    backgroundColor: "#2774ab",
+    filterBrightness: 2,
+    timeOnScreen: 100
 }, //...
 ```
 
