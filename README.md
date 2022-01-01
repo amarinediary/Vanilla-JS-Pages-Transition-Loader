@@ -23,25 +23,21 @@ to enable it, place the following script near the end of your pages, right befor
 <script type="application/javascript" src="../path/to/vanilla-js-pages-transition-loader.min.js"></script>
 ```
 
-## Theme
+## Settings
 
-To change the theme's color, edit the theme's ` t ` variable with your new HEX color code located at the top of the script.
-
-```js
-var t="#2774ab", // ...
+```
+let settings = {
+    backgroundColor: "#2774ab", //https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+    filterBrightness: "2", //https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness()
+    timeOnScreen: 100 //https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+}, //...
 ```
 
-The default theme's color is based on Wordpress deep blue accent ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`.
-
-The loader element is using the [brightness() CSS function `brightness(2)`](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness()). Setting a lighter theme's color will force you to edit (`g.setAttribute("filter","brightness(2)")`) the brightness to lower value.
-
-## Time on screen
-
-The time on screen is appended to the page loading time. To increase the time on screen you can modify the default `100` milliseconds `setTimeout` value located at the end of the script.
-```js
-// ...
-,100)})
-```
+|Option|Description|
+|-|-|
+|`backgroundColor`|Refer to [MDN Web Docs color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) for acceptable values. The [background-color CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color) sets the background color of an element. Default to Wordpress deep blue accent ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`|
+|`filterBrightness`| [number](https://developer.mozilla.org/en-US/docs/Web/CSS/number) or [percentage](https://developer.mozilla.org/en-US/docs/Web/CSS/percentage). The brightness of the `svg` loader element ([brightness() CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness())). A value under `100%` darkens the loader, while a value over `100%` brightens it. The lacuna value for interpolation is `1`. Default to `2`.|
+|`timeOnScreen`|Positive `integer`. The time on screen is appended to the page loading time. Default to `100` milliseconds.|
 
 ## Star it and watch it! 
 
