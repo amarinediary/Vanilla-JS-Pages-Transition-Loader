@@ -5,7 +5,7 @@ A simple and minimalistic vanilla `.js` standalone pages transition loader, mini
 ## Fundamentals
 
 - Generate a `<script>` element appended to the `<head>` element, containing any required styling.
-- Generate a `<div>` element, with the identifier `id="o"`, acting as overlay, prepended to the `<body>` element.
+- Generate a `<div>` element, acting as overlay, prepended to the `<body>` element.
 - Generate a `<svg>` element, acting as loader, prepended to the previously generated `<div>` element.
 - On `window.onload` self generated elements are automatically removed.
 
