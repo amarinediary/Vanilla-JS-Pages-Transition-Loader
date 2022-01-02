@@ -29,8 +29,8 @@ to enable it, place the following script near the end of your pages, right befor
 let settings = {
     backgroundColor: "#2774ab",
     filterBrightness: 2,
-    timeOnScreen: 100,
-    strokeWidth: 10
+    strokeWidth: 10,
+    timeOnScreen: 100
 }, //...
 ```
 
@@ -38,8 +38,8 @@ let settings = {
 |-|-|
 |`backgroundColor`|Refer to [MDN Web Docs color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) for acceptable values. The [background-color CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color) sets the background color of an element. Default to Wordpress deep blue accent ![#2774ab](https://via.placeholder.com/15/2774ab/000000?text=+) `#2774ab`|
 |`filterBrightness`| [number](https://developer.mozilla.org/en-US/docs/Web/CSS/number) or [percentage](https://developer.mozilla.org/en-US/docs/Web/CSS/percentage). The brightness of the `svg` loader element ([brightness() CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness())). A value under `100%` darkens the loader, while a value over `100%` brightens it. The lacuna value for interpolation is `1`. Default to `2`.|
-|`timeOnScreen`|Positive `integer`. The time on screen is appended to the page loading time. Default to `100` milliseconds.|
 |`strokeWidth`|Positive `integer`. Loader stroke's width. The [stroke-width](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-width) attribute is a presentation attribute defining the width of the stroke to be applied to the shape. Default to `10`.|
+|`timeOnScreen`|Positive `integer`. The time on screen is appended to the page loading time. Default to `100` milliseconds.|
 
 ## Star it and watch it! 
 
