@@ -41,7 +41,7 @@ let settings = {
 |`strokeWidth`|Positive `integer`. Loader stroke's width. The [stroke-width](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-width) attribute is a presentation attribute defining the width of the stroke to be applied to the shape. Default to `10`.|
 |`timeOnScreen`|Positive `integer`. The time on screen is appended to the page loading time. Default to `100` milliseconds.|
 
-## Star it and watch it! 
+## Watch it, Star it, Fork it ! 
 
 We made your day? Give us a star!
 
