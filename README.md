@@ -11,7 +11,7 @@ A simple and minimalistic, VanillaJS, standalone, pages transition loader, minif
 
 ## [Demo](https://codepen.io/amarinediary/full/mdrQvGJ)
 
-||||
+|Ex. Loader 1|Ex. Loader 2|Ex. Loader 3|
 |-|-|-|
 |<img src="https://i.ibb.co/L68sYxD/Vanilla-js-pages-transitions-loader-ressource-1.gif"></img>|<img src="https://i.ibb.co/ZH4PXWZ/vanilla-js-pages-transitions-loader-ressource-2.gif"></img>|<img src="https://i.ibb.co/J7y9BYy/vanilla-js-pages-transitions-loader-ressource-3.gif"></img>|
 
